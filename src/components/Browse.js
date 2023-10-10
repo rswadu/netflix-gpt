@@ -1,7 +1,9 @@
+import Header from "./Header"
 const Browse = () => {
   return (
     <div>
-         <div className="bg-orange-950 p-9 m-9" >Browse</div>
+      <Header/>
+         <div className="w" >Browse</div>
     </div>
    
   )
